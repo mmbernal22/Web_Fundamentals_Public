@@ -1,0 +1,23 @@
+
+
+h1 {
+    color: darkgoldenrod;
+    background-color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-width: 2px;
+    border-style: solid;
+    border-color: darkgoldenrod;
+}
+
+table {
+    border: 5px double darkgoldenrod;
+}
+
+.orange-circle {
+    width: 50px;
+    height: 50px;
+    background-color: goldenrod;
+    border-radius: 50% 50% 50% 50%;
+    margin-bottom: 2px;
+}
